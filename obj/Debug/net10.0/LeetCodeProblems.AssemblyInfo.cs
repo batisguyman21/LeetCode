@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCodeProblems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a128b3cbff5a6d8a1345779a67e0e8ed5dcf27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb2d2c2b47ff99a94d02e5880b77dc441a892f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCodeProblems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCodeProblems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
